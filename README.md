@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 </a>
 </a>
 <br>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=pauloJ34&show_icons=true&theme=chartreuse-dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloJ34)](https://github.com/anuraghazra/github-readme-stats)
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=pauloJ34&show_icons=true&theme=chartreuse-dark" />
+<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauloJ34&theme=chartreuse-dark" />
 
 <br><br>
