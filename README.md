@@ -9,6 +9,7 @@ pauloJ34/pauloJ34 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+
 ## My Contacts and Network ✉️
 <a target="_blank" href="https://www.linkedin.com/in/paulo-junior-5212601b5/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,11 +19,8 @@ You can click the Preview link to take a look at your changes.
 </a>
 </a>
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloJ34&show_icons=true&theme=tokyonight)
 
-
-<a href="https://github.com/AVS1508">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pauloJ34&show_icons=true&theme=chartreuse-dark" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauloJ34&theme=chartreuse-dark&layout=compact&exclude_lang=java+r" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloJ34)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
