@@ -29,6 +29,9 @@ You can click the Preview link to take a look at your changes.
  <img src="https://img.icons8.com/color/344/git.png" width="36px"/>
  <img src="https://img.icons8.com/color/344/c-programming.png" width="36px"/>
  <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" width="36px"/>
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="36px"/>
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="36px"/>
+ <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="36px"/>
 </div>
 <br>
 
