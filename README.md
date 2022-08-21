@@ -1,7 +1,7 @@
 <!-- - 💞️ I’m looking to collaborate on ...-->
-- 👋 Hi, I’m @pauloJ34
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Paulo
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning a little bit of everynthing
 - 📫 How to reach me  <a target="_blank" href="mailto:paulofranklin612@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" height="20px" />
 </a>
 
