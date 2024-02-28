@@ -3,7 +3,7 @@
 - 🧩️ I like puzzle.
 - 🗺 I treat programming like a puzzle, I always try to solve it in the best way possible.
 - 👨‍💻 Programming Student.
-- :octocat: Main Stack: shell, javaScript, Node.
+- :octocat: Main Stack: shell, Node, Spring, Laravel, React.
 
 # Technology 
 <div style='flex'>
